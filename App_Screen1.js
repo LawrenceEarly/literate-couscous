@@ -20,7 +20,7 @@ class App extends Component {
                      style={styles.button}
                 onPress={this.onPress}
 >
-<Text> Sign Up Here! </Text?
+<Text> Sign Up Here! </Text>
 </TouchableHighlight>
                 <View stylw={[styles.countContainer]}>
                 <Text style={[styles.countText]}>
